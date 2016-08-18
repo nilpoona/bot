@@ -10,7 +10,7 @@ module.exports = (robot => {
       },
       null,
       true,
-      "Asia/Tokyo",
+      "Asia/Tokyo"
     );
 });
 
