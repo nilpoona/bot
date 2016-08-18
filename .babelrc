@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "es2015",
+    "stage-0"
+  ],
+  "passPerPreset": true,
+  "plugins": [
+    "transform-class-properties"
+  ]
+}
+
