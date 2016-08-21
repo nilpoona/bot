@@ -1,6 +1,7 @@
 var cron = require('node-cron');
 var moment = require('moment');
 
+// hoge
 module.exports = (robot => {
     new cron.schedule(
       "0 */1 * * * *",
