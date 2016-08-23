@@ -7,7 +7,7 @@ module.exports = (robot => {
         "0 0 0-23 * * *",
         () => {
             const hourMessage = moment().format('h') + "時になったぞ...";
-            robot.send({ room: "#general" }, hourMessage);
+            robot.send({ room: "C225P6D34" }, hourMessage);
         },
         null,
         true,
