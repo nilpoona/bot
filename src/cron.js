@@ -1,7 +1,8 @@
-var cron = require('node-cron');
-var moment = require('moment');
+// var cron = require('node-cron');
+// var moment = require('moment');
 
 module.exports = (robot => {
+    /*
     console.log('run');
     new cron.schedule(
         "0 0 0-23 * * *",
@@ -13,5 +14,6 @@ module.exports = (robot => {
         true,
         "Asia/Tokyo"
     );
+    */
 });
 
